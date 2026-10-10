@@ -22,7 +22,6 @@ Go to the [Releases](../../releases/latest) page and download the file for your 
 
 > **Linux and macOS:** neoLegacy runs natively to windows, so it runs through **Wine** or **Proton**. Install one of them, then set the command under **Settings → Launcher → Wine command** (for example `wine`). Linux and macOS support is in beta.
 
----
 
 ## Launcher Features
 
