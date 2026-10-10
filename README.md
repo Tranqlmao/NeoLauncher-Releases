@@ -30,22 +30,22 @@ Go to the [Releases](../../releases/latest) page and download the file for your 
 - **Use any build** – import a game folder you already have, or add versions from a custom manifest. Other Legacy Console Edition versions work too.
 - **Version picker** – switch builds from the main screen with the "Version selected" menu.
 
-### 🔄 Always Up to Date
+### Always Up to Date
 - **Game updates** – when a new neoLegacy release is out, a glowing orb appears next to the version and a notification lets you know. Update whenever you like; you can keep playing the build you have.
 - **Launcher updates** – new versions of the launcher install themselves in one click, and every update is signed so you know it's genuine.
 - **Your worlds are safe** – updating or uninstalling a version never touches your worlds and settings.
 
-### 🧍 Profile & Skins
+### Profile & Skins
 - **Your profile** – set your username right from the main screen.
 - **Custom skins** – upload any 64x64 or classic 64x32 skin. Classic and slim arms are detected automatically.
 - **Capes** – upload your own cape and see it in game.
 - **3D preview** – an inventory-style preview that follows your mouse, with Minecraft lighting. Flip it around to see your cape.
 
-### 🧰 Workshop
+### Workshop
 - **Community content** – browse skin packs, texture packs and more from the NeoLegacy Marketplace. All community made.
 - **New packs show up automatically** as they're added.
 
-### 🎨 Themes & Easter Eggs
+### Themes & Easter Eggs
 - **Panoramas** – pick the title screen panorama from a range of themes, with day and night versions.
 - **Make it yours** – change the panorama, night mode and profile colour in the Themes tab, and turn sound effects on or off in Settings.
 - **Easter eggs** – see what happens when you click the logo... 🎆
