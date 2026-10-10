@@ -51,7 +51,6 @@ Go to the [Releases](../../releases/latest) page and download the file for your 
 - **Customize** – change the panorama, night mode and profile colour in the Themes tab, and turn sound effects on or off in Settings.
 - **Easter eggs** – see what happens when you click the logo... 🎆
 
----
 ## Questions
 
 **Do I have to stop using my other launcher?**
