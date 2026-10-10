@@ -54,7 +54,7 @@ Go to the [Releases](../../releases/latest) page and download the file for your 
 
 **Do I have to stop using my other launcher?**
 As of now, this launcher supports the same playability of any other launcher! 
-Potentially, it could be required to play minigames, but the team is working to avoid this :)
+Eventually, it could be required to play minigames, but the team is working hard to avoid this :)
 
 **Where are my worlds kept?**
 In each install's folder. Open it from **Settings → Versions → Open Folder**.
