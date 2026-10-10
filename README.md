@@ -52,3 +52,18 @@ Go to the [Releases](../../releases/latest) page and download the file for your 
 
 ---
 
+## Questions
+
+**Do I have to stop using my other launcher?**
+As of now, this launcher supports the same playability of any other launcher! 
+Potentially, it could be required to play minigames, but the team is working to avoid this :)
+
+**Where are my worlds kept?**
+In each install's folder. Open it from **Settings → Versions → Open Folder**.
+
+**Is the source code available?**
+Not yet; see above.
+
+---
+
+NeoLauncher is a fan project and is not affiliated with Mojang Studios or Microsoft. Minecraft is a trademark of Mojang Studios.
