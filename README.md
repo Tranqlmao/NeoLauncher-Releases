@@ -3,8 +3,7 @@
 <img width="1243" height="719" alt="launcher" src="https://github.com/user-attachments/assets/703b2603-1f14-4226-82da-6dde28d0512a" />
 
 NeoLauncher is NeoLegacy's official game launcher. As of now, this launcher is closed source, but this is subject to change!
-
-As of now, this launcher will remain closed source until it is determined the goals NeoLegacy will provide for multiplayer and minigame safety.
+This launcher will remain closed source until it is determined the goals NeoLegacy will provide for multiplayer and minigame safety.
 
 The goal of this launcher is to have an official means to launch, install, and customize your game! The launcher will support other outside game versions, so it can be used anywhere!
 
