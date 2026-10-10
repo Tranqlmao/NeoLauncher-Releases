@@ -11,10 +11,6 @@ We do not have a plan to discontinue support of any other launcher support, and 
 
 ## Download
 
-WINDOWS **Requirements:** Windows 10 or 11 (64-bit).
-1. Go to the [Releases](../../releases/latest) page.
-2. Download **`NeoLauncher_x.x.x_x64-setup.exe`** and run it.
-3. That's it! The launcher keeps itself up to date from then on.
 
 Go to the [Releases](../../releases/latest) page and download the file for your system:
 
