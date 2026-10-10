@@ -64,4 +64,11 @@ Not yet; see above.
 
 ---
 
+## Acknowledgements 
+- The Emerald Team & LC Launcher - Design inspiration.
+- Piebot - Original founder of Neolegacy, current owner of Cafeberry.
+- 4J Studios & Mojang - Original creators of Legacy Console Edition.
+- The LCE Community - Research and foundations for LCE on PC.
+- NeoLegacy team, staff, and community - For making this possible.
+
 NeoLauncher is a fan project and is not affiliated with Mojang Studios or Microsoft. Minecraft is a trademark of Mojang Studios.
