@@ -47,7 +47,7 @@ Go to the [Releases](../../releases/latest) page and download the file for your 
 
 ### Themes & Easter Eggs
 - **Panoramas** – pick the title screen panorama from a range of themes, with day and night versions.
-- **Make it yours** – change the panorama, night mode and profile colour in the Themes tab, and turn sound effects on or off in Settings.
+- **Customize** – change the panorama, night mode and profile colour in the Themes tab, and turn sound effects on or off in Settings.
 - **Easter eggs** – see what happens when you click the logo... 🎆
 
 ---
