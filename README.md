@@ -52,7 +52,6 @@ Go to the [Releases](../../releases/latest) page and download the file for your 
 - **Easter eggs** – see what happens when you click the logo... 🎆
 
 ---
-
 ## Questions
 
 **Do I have to stop using my other launcher?**
