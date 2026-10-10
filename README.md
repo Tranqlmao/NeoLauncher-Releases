@@ -26,7 +26,7 @@ Go to the [Releases](../../releases/latest) page and download the file for your 
 ## Launcher Features
 
 ### Play
-- **One-click neoLegacy** – install and play the latest official neoLegacy build straight from the launcher.
+- **NeoLegacy** – install and play the latest official neoLegacy build straight from the launcher.
 - **Use any build** – import a game folder you already have, or add versions from a custom manifest. Other Legacy Console Edition versions work too.
 - **Version picker** – switch builds from the main screen with the "Version selected" menu.
 
