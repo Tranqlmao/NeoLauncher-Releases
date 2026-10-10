@@ -62,7 +62,6 @@ In each install's folder. Open it from **Settings → Versions → Open Folder**
 **Is the source code available?**
 Not yet; see above.
 
----
 
 ## Acknowledgements 
 
