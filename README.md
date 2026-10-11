@@ -66,7 +66,7 @@ Not yet; see above.
 ## Acknowledgements 
 
 
-- The Emerald Team & LC Launcher - Design inspiration.
+- The Emerald Team & LC Launcher - Design inspiration and references.
 - Piebot - Original founder of Neolegacy, current owner of Cafeberry.
 - 4J Studios & Mojang - Original creators of Legacy Console Edition.
 - The LCE Community - Research and foundations for LCE on PC.
